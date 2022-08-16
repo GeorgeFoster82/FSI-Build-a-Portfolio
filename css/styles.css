@@ -2,11 +2,12 @@ body {background-color:black;
 }
 .header{
     background-color: darkgreen;
-    border-radius: 40px;
+    border-radius: 140px;
     margin: auto;
     text-align: center;
     width:max-content;
 }
+/* puts little green boader around Software Devloper. */
 h1 
     {color: white; 
     text-align: center; 
@@ -42,3 +43,8 @@ li
         cursor: url('../images/icons8-neuron-48.png'), pointer
     }
     /* adds custom cursor of neuron and back up as pointer */
+
+img{border-radius: 10px;
+border-style: dashed;
+color: blue
+}
