@@ -1,6 +1,12 @@
 body {background-color:black;
 }
-
+.header{
+    background-color: darkgreen;
+    border-radius: 40px;
+    margin: auto;
+    text-align: center;
+    width:max-content;
+}
 h1 
     {color: white; 
     text-align: center; 
@@ -16,6 +22,10 @@ p
 h2 
     {color: white; pointer;
     text-align: center;
+}
+.main-section{
+        border: 3px solid darkgreen;
+        font-style: italic;
 }
 
 h3 {color: white; text-align: center;}
