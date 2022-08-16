@@ -1,8 +1,23 @@
 body {background-color:black;
 }
-h1 {color: white; text-align: center; text-decoration-line: underline;}
-p {color: white; text-align: left;}
-h2 {color: white; text-align: center;}
+
+h1 
+    {color: white; 
+    text-align: center; 
+    text-decoration-line: underline;
+}
+
+p 
+    {color: white; 
+    text-align: left;
+}
+
+h2 
+    {color: white; pointer;
+    }
+    text-align: center;
+}
+
 h3 {color: white; text-align: center;}
 ul {color: white; text-align: left;}
 a {color: white; text-align: left;}
@@ -11,3 +26,8 @@ li
     {line-height: 1.8em;
     background: blue;
     border-style: solid;}
+    /* The above makes blue boxes around listed */
+
+    html{
+        cursor: url('../images/icons8-neuron-48.png'), pointer
+    }
