@@ -7,7 +7,7 @@ h1
     text-decoration-line: underline;
     font-style: italic;
 }
-
+/* above makes H1 hearders white, center, underlined, and in italics. */
 p 
     {color: white; 
     text-align: left;
@@ -15,7 +15,6 @@ p
 
 h2 
     {color: white; pointer;
-    }
     text-align: center;
 }
 
